@@ -9,5 +9,4 @@ https://github.com/shailsharma2001/N8N-LLM-Chat-with-RAG/blob/main/Simple_Chat_A
 
 
 # Sample Flow image :
-[AI Flow](https://github.com/shailsharma2001/N8N-LLM-Chat-with-RAG/blob/main/Simple_Chat_Agent_Ollama_with_RAG.jpg)
-
+![AI Flow](https://github.com/shailsharma2001/N8N-LLM-Chat-with-RAG/blob/main/Simple_Chat_Agent_Ollama_with_RAG.jpg)
